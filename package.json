@@ -1,0 +1,19 @@
+{
+  "name": "requirejs",
+  "version": "2.1.12",
+  "description": "Bower packaging for [RequireJS](http://requirejs.org).",
+  "main": "require.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbiz/requirejs-bower.git"
+  },
+  "author": "fbiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbiz/requirejs-bower/issues"
+  },
+  "homepage": "https://github.com/fbiz/requirejs-bower#readme"
+}
