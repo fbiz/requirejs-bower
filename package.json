@@ -1,6 +1,6 @@
 {
   "name": "requirejs",
-  "version": "2.1.12",
+  "version": "2.1.16",
   "description": "Bower packaging for [RequireJS](http://requirejs.org).",
   "main": "require.js",
   "scripts": {
